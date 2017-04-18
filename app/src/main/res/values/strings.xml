@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoResizeEditText</string>
+    <string name="hint">EditText</string>
+</resources>
